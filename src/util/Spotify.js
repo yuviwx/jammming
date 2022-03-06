@@ -1,6 +1,6 @@
 
 const Client_Id  = '2be4c4098af9489fbbb7e257335b3fe0';
-const Redirect_Uri = "http://plus-ultra-playlist.surge.sh";
+const Redirect_Uri = "http://localhost:3000/";
 
 let accessToken;
 
